@@ -1,0 +1,31 @@
+_repo: The-War-of-Chupas_56486
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Markham, Clements R. (Clements Robert), Sir
+    aliases:
+    - Markham, Clements Robert, Sir
+    - Markham, Sir Clements R. (Clements Robert)
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '2962'
+    url: http://www.gutenberg.org/2009/agents/2962
+    wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+creator:
+  author:
+    agent_name: Leon, Pedro de Cieza de
+    gutenberg_agent_id: '48878'
+    url: http://www.gutenberg.org/2009/agents/48878
+description: ''
+gutenberg_issued: '2018-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The War of Chupas
+url: http://www.gutenberg.org/ebooks/56486
